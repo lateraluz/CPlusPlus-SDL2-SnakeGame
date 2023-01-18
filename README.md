@@ -1,2 +1,2 @@
-# Cplusplus-SDL2-Snake
- .
+# Snake Game using SDL2 Library
+
