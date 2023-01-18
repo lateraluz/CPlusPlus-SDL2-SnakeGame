@@ -9,12 +9,12 @@ It uses:
 1. SDL2 Image  
  
 ## Playing
-1. Begin the game pressing arrow key.
+1. Begin the game pressing any arrow key.
 1. Snake must eat each red square.
 1. It grows up everytime eat a red square.
 1. Snake can go outside the limit of screen.
-1. Everytime it eats 10 red square the game advances next level and increase the speed.    
-1. There are 10 levels to win
+1. Every time it eats 10 red square, the game advances next level and increase the speed.    
+1. There are 10 levels to win.
 1. Lost if snake bites itself :(
 
 
