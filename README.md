@@ -2,19 +2,19 @@
 
 This is a classic Snake Game, it was Developed with Visual C++ 2022 with the follow libraries:
 
-1. SDL2 Library
-1. SDL2 Mixer (Music & Sounds)
-1. SDL2 TTF (Fonts)
-1. SDL2 Image  
+1. SDL2 Library 
+1. SDL2 Mixer (Music & Sounds :musical_note:)
+1. SDL2 TTF (Fonts) ✍️
+1. SDL2 Image :camera: 
  
-## Playing
-1. Begin the game pressing any arrow key.
-1. Snake must eat each red square.
-1. It grows up everytime eat a red square.
-1. Snake can go outside the limit of screen.
-1. Every time it eats 10 red square, the game advances next level and increase the speed.    
-1. There are 10 levels to win.
-1. Lost if snake bites itself :(
+## Playing :video_game:
+1. Begin the game pressing any arrow key  ⬅️ ⬇️ ⬆️ ➡️
+1. Snake  :snake: must eat each red square 🟥.
+1. It grows up every time eat a 🟥.
+1. :snake: can go outside the limit of screen.
+1. Every time it eats 10 🟥, the game advance next level and increase the speed.    
+1. Must pass 10 levels to win 👏
+1. Lost if 🐍 bites itself :disappointed: 
 
 
 ![1](https://user-images.githubusercontent.com/43474323/213252871-9b1af239-3c0d-42e6-a5bd-7c32aff91d90.png)
@@ -28,7 +28,7 @@ This is a classic Snake Game, it was Developed with Visual C++ 2022 with the fol
 
 ## Do you want to run it without Visual Studio?
 
-Run it ..\Debug\appSDL.exe
+Run it ..\Debug\appSDL.exe 🏃‍♂️
 
 ## License
 Feel free to improve it!
