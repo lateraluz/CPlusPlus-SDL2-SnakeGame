@@ -23,7 +23,13 @@ It uses:
 
 ![1](https://user-images.githubusercontent.com/43474323/213252955-7d2550d2-24c5-4cc9-bc2c-5bd63d3d1f08.png)
 
+## Don't forget to config Visual Studio with all Libraries required
 
+![1](https://user-images.githubusercontent.com/43474323/213341903-8ee93008-28b5-4e43-9410-44c189dba87c.png)
+
+## Do you want to run it without Visual Studio?
+
+Run it ..\Debug\appSDL.exe
 
 ## License
 Feel free to improve it!
