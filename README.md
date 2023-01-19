@@ -30,7 +30,7 @@ This is a classic Snake Game, it was Developed with Visual C++ 2022 with the fol
 
 Run it ..\Debug\appSDL.exe 🏃‍♂️
 
-## License
+ 
 Feel free to improve it!
 
 <BR>
