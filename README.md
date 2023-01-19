@@ -1,8 +1,7 @@
 # Snake Game  
 
-This is a classic Snake Game, it was Developed with Visual C++ 2022:
+This is a classic Snake Game, it was Developed with Visual C++ 2022 with the follow libraries:
 
-It uses:
 1. SDL2 Library
 1. SDL2 Mixer (Music & Sounds)
 1. SDL2 TTF (Fonts)
