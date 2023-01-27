@@ -5,7 +5,7 @@ This is a classic Snake Game, it was Developed with Visual C++ 2022 with the fol
 1. SDL2 Library 
 1. SDL2 Mixer (Music & Sounds :musical_note:)
 1. SDL2 TTF (Fonts) ✍️
-1. SDL2 Image :camera: 
+1. SDL2 Image 📷
  
 ## Playing :video_game:
 1. Begin the game pressing any arrow key  ⬅️ ⬇️ ⬆️ ➡️
